@@ -1,5 +1,5 @@
 # cp_gradient
-Gradient-based solution to optimal control problem, applied to the under-actuated cart-pole system
+Gradient-based solution to the nonlinear optimal control problem, applied to the under-actuated cart-pole system.
 
 Check out a writeup here: (link coming)
 
